@@ -24,5 +24,5 @@ This repository began as an enterprise data analytics project and is being expan
 - Azure Blob Storage
 - Microsoft Entra ID
   
-## Notes
-- All data is synthetic and created for demonstration purposes
+## Data Policy
+All data, entities, records, names, identifiers, transactions, billing items, contracts, invoices, work orders, vendors, employees, customers, regions, crews, and operational scenarios included in this project are entirely fictional and created solely for demonstration, development, and portfolio purposes. Any resemblance to actual persons, companies, customers, vendors, contracts, invoices, work orders, systems, or operational records is purely coincidental. No real customer data, employer data, vendor data, employee data, billing data, invoice data, contract data, or work order data is intentionally used or represented.

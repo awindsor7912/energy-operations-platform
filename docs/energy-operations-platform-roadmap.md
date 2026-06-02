@@ -79,9 +79,10 @@ energy-operations-platform/
 │   └── roadmap/
 │
 ├── database/
-│   ├── schema/
-│   ├── scripts/
-│   ├── seed-data/
+│   ├── README.md
+    ├── schema/
+│   ├── seed/
+│   ├── queries/
 │   └── diagrams/
 │
 ├── analysis/
@@ -177,17 +178,16 @@ The first database version will focus on the foundational operational entities:
 
 - [x] Create local SQL Server database.
 - [x] Decide on the first database name.
-- [ ] Create database setup script.
-- [ ] Define naming conventions for tables, columns, primary keys, and foreign keys.
-- [ ] Draft initial schema in markdown before creating tables.
-- [ ] Create core tables in SQL Server.
-- [ ] Add primary keys and foreign keys.
-- [ ] Add required constraints where appropriate.
+- [x] Create database setup script.
+- [x] Define naming conventions for tables, columns, primary keys, and foreign keys.
+- [x] Draft initial schema in markdown before creating tables.
+- [x] Create core tables in SQL Server.
+- [x] Add primary keys and foreign keys.
+- [x] Add required constraints where appropriate.
 - [ ] Add sample/synthetic data.
 - [ ] Create initial database diagram.
-- [ ] Store scripts in `database/scripts/`.
-- [ ] Store schema notes in `database/schema/`.
-- [ ] Store sample data in `database/seed-data/`.
+- [x] Store schema notes and scripts in `database/schema/`.
+- [ ] Store sample data in `database/seed/`.
 
 ## Example Milestone
 
